@@ -1,4 +1,5 @@
-###<h2 align="left">Olá 👋, me chamo Guilherme!<br>Sou desenvolvedor e estudante de Ciência da Computação, apaixonado por tecnologia, programação e inovação.  <br>Busco constantemente aprimorar minhas habilidades técnicas e aplicar meus conhecimentos em projetos que gerem impacto real.</h2>
+###
+<h2 align="left">Olá 👋, me chamo Guilherme!<br>Sou desenvolvedor e estudante de Ciência da Computação, apaixonado por tecnologia, programação e inovação.  <br>Busco constantemente aprimorar minhas habilidades técnicas e aplicar meus conhecimentos em projetos que gerem impacto real.</h2>
 
 ###
 
