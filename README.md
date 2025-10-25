@@ -65,7 +65,7 @@
 
 ###
 
- - 🔭 I’m currently working on: Software web
+<h2>- 🔭 I’m currently working on: Software web</h2>
 <h2>- 🌱 I’m currently learning: Java</h2>
 <h2>- 👯 I’m looking to collaborate on ...</h2>
 <h2>- 🤔 I’m looking for help with ...</h2>
