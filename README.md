@@ -66,7 +66,7 @@
 ###
 
 <h2>- 🔭 I’m currently working on ...</h2>
-<h2>- 🌱 I’m currently learning ...</h2>
+<h2>- 🌱 I’m currently learning ...FDF</h2>
 <h2>- 👯 I’m looking to collaborate on ...</h2>
 <h2>- 🤔 I’m looking for help with ...</h2>
 <h2>- 💬 Ask me about ...</h2>
