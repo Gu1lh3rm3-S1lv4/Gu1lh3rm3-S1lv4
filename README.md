@@ -71,7 +71,8 @@
 <h2>- 👯 I’m looking to collaborate on: Desenvolvimento front-end e back-end</h2>
 <h2>- 🤔 I’m looking for help with: Boas práticas em arquitetura de software e integração entre sistemas</h2>
 <h2>- 💬 Ask me about:: O mundo da tecnologia, desenvolvimento de software e inovação digital</h2>
-<h2>- 📫 How to reach me: www.linkedin.com/in/guilherme-da-silva-p</h2>
+<h2>- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/guilherme-da-silva-p)
+</h2>
 <h2>- 😄 Pronouns: ele/ dele</h2>
 <h2>- ⚡ Fun fact:: Gosto explorar novas tecnologias e transformar ideias em código</h2>
 
