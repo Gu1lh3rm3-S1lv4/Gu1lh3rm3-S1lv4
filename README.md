@@ -73,5 +73,5 @@
 <h2>- 💬 Ask me about:: O mundo da tecnologia, desenvolvimento de software e inovação digital</h2>
 <h2>- 📫 How to reach me: www.linkedin.com/in/guilherme-da-silva-p</h2>
 <h2>- 😄 Pronouns: ele/ dele</h2>
-<h2>- ⚡ Fun fact: ...</h2>
+<h2>- ⚡ Fun fact:: Gosto explorar novas tecnologias e transformar ideias em código</h2>
 
